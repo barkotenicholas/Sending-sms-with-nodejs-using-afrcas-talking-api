@@ -1,0 +1,14 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "Africas talking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nicholas batkote",
+  "license": "ISC",
+  "dependencies": {
+    "africastalking": "^0.3.0"
+  }
+}
